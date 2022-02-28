@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31605.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesktopNotesAPI", "DesktopNotesAPI\DesktopNotesAPI.csproj", "{61F8EEBA-5C4F-4E54-A146-365B128D188B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesktopNotes.DatabaseManager", "DesktopNotes.DatabaseManager\DesktopNotes.DatabaseManager.csproj", "{60E1F214-01B4-4F43-B477-E3AF43D0B03E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{61F8EEBA-5C4F-4E54-A146-365B128D188B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61F8EEBA-5C4F-4E54-A146-365B128D188B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61F8EEBA-5C4F-4E54-A146-365B128D188B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61F8EEBA-5C4F-4E54-A146-365B128D188B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{60E1F214-01B4-4F43-B477-E3AF43D0B03E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60E1F214-01B4-4F43-B477-E3AF43D0B03E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60E1F214-01B4-4F43-B477-E3AF43D0B03E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60E1F214-01B4-4F43-B477-E3AF43D0B03E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {56EE9131-47B5-4DA2-847C-79281EE40DBA}
+	EndGlobalSection
+EndGlobal
